@@ -12,7 +12,7 @@ This is a simple VS-Code extension that allows users to quickly DELETE comments,
 
 ![Alt text](image.png)
 
-3. Watch it preform thse action!
+3. Watch it preform the action!
 
 
 
